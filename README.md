@@ -1,1 +1,1 @@
-![My Image](./proje şeması.jpg)
+![My Image](./proje-şeması.jpg)
