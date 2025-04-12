@@ -1,1 +1,1 @@
-![Alt text](proje şeması.jpg)
+![My Image](./proje şeması.jpg)
